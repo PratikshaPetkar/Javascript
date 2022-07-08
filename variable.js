@@ -57,6 +57,7 @@ console.log(arr1);
 
 WE ARE GOING TO USE camelCase only 
 
+second commit
 
 */
  
