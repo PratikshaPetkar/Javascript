@@ -19,5 +19,9 @@ console.error('this is   an error')
 /*
 this 
 is 
-multiline comment
+multiline comment and its useful
+
 */
+
+let a = 2+3;
+console.log(a);
