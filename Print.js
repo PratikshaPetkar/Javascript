@@ -25,3 +25,11 @@ multiline comment and its useful
 
 let a = 2+3;
 console.log(a);
+
+let x = personal
+let y = partying
+x == y;
+if(personal == partying)
+{
+    console.log(true)
+}
